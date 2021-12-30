@@ -1,0 +1,10 @@
+use ica;
+insert into variables_ica values(1,1.2,22.0,301.2,11,7,68.48,"Regular","Amarillo");
+insert into variables_ica values(2,1.3,23.0,309.2,12,7,70.5,"Regular","Amarillo");
+insert into variables_ica values(3,1.4,24.0,308.2,9,7,69.92,"Regular","Amarillo");
+insert into variables_ica values(4,1.5,25.0,307.2,8,7,69.74,"Regular","Amarillo");
+insert into variables_ica values(5,1.6,26.0,306.2,7,7,69.56,"Regular","Amarillo");
+insert into variables_ica values(6,1.7,27.0,305.2,6,7,69.38,"Regular","Amarillo");
+insert into variables_ica values(7,1.8,28.0,304.2,5,7,69.2,"Regular","Amarillo");
+insert into variables_ica values(8,1.9,19.0,303.2,4,7,67.02,"Regular","Amarillo");
+insert into variables_ica values(9,1.1,18.0,302.2,3,7,66.26,"Regular","Amarillo");
